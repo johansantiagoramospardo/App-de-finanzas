@@ -1,0 +1,14 @@
+[
+    {
+        "usuario": "Johan",
+        "fecha": "2026-05-13",
+        "descripcion": "Comida",
+        "monto": 2000.0
+    },
+    {
+        "usuario": "Johan",
+        "fecha": "2026-05-13",
+        "descripcion": "ejercicio",
+        "monto": 55000.0
+    }
+]
